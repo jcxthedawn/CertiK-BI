@@ -1,6 +1,6 @@
 # CertiK - Work Related Samples 
 ## Business Intelligence/DATA/Product Analytics
-### WD campaign winner processing
+### Twitter Follower's info bulk extraction 
 
 Connect to Twitter API, get winners' follower number automatically and rank by follwer's numbers
 
