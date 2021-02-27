@@ -1,5 +1,5 @@
-# CertiK - Work Related Samples - BI/DATA/Product Analytics
-##Process Optmization scripts
+# CertiK - Work Related Samples 
+## Business Intelligence/DATA/Product Analytics
 ### WD campaign winner processing
 
 Connect to Twitter API, get winners' follower number automatically and rank by follwer's numbers
